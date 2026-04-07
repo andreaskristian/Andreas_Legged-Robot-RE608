@@ -49,6 +49,3 @@ Output:
 </p>
 
 ---
-
-## Author
- Yosua Dirgana Pratama
